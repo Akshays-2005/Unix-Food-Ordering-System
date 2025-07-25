@@ -1,0 +1,7 @@
+Item	Price
+---------------------
+Tandoori_Roti	25 INR
+Veg_Kurma	120 INR
+---------------------
+Total: 	145 INR
+
