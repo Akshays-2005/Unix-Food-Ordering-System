@@ -22,8 +22,8 @@ Make sure to enable **Less Secure Apps** or **App Passwords** in Gmail to use SM
 - Python (smtplib)
 - Linux Terminal
 
-## 📸 Screenshot
-*(Add a screenshot here if you have one)*
+## 🎥 Demo Video
+[Click here to watch the demo video](https://drive.google.com/file/d/1Mbup_4uWJNJFmxlwL8GmeAoZHUlhpI4z/view?usp=drive_link)
 
 ## 👨‍🎓 Built by
 Akshay S – [LinkedIn](https://www.linkedin.com/in/akshay-s-962494354/)
